@@ -1,0 +1,14 @@
+/Users/iankelsey/Desktop/c#my/bin/Debug/net9.0/c#my
+/Users/iankelsey/Desktop/c#my/bin/Debug/net9.0/c#my.deps.json
+/Users/iankelsey/Desktop/c#my/bin/Debug/net9.0/c#my.runtimeconfig.json
+/Users/iankelsey/Desktop/c#my/bin/Debug/net9.0/c#my.dll
+/Users/iankelsey/Desktop/c#my/bin/Debug/net9.0/c#my.pdb
+/Users/iankelsey/Desktop/c#my/obj/Debug/net9.0/c#my.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iankelsey/Desktop/c#my/obj/Debug/net9.0/c#my.AssemblyInfoInputs.cache
+/Users/iankelsey/Desktop/c#my/obj/Debug/net9.0/c#my.AssemblyInfo.cs
+/Users/iankelsey/Desktop/c#my/obj/Debug/net9.0/c#my.csproj.CoreCompileInputs.cache
+/Users/iankelsey/Desktop/c#my/obj/Debug/net9.0/c#my.dll
+/Users/iankelsey/Desktop/c#my/obj/Debug/net9.0/refint/c#my.dll
+/Users/iankelsey/Desktop/c#my/obj/Debug/net9.0/c#my.pdb
+/Users/iankelsey/Desktop/c#my/obj/Debug/net9.0/c#my.genruntimeconfig.cache
+/Users/iankelsey/Desktop/c#my/obj/Debug/net9.0/ref/c#my.dll
